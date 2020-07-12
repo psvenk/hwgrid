@@ -1,5 +1,9 @@
 hwgrid.cls changelog
 
+Version 1.3 - 3 September 2019
+
+- Use more expl3 syntax
+
 Version 1.2 - 2 September 2019
 
 - Use expl3 syntax for \insertgrid
