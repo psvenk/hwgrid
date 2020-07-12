@@ -1,5 +1,13 @@
 hwgrid.cls changelog
 
+Version 1.2 - 2 September 2019
+
+- Use expl3 syntax for \insertgrid
+
+- Combine \insertgrid and \insertgridfixed, using an optional argument for the height of the rows for classes
+
+- Make list of events an optional argument to \insertgrid
+
 Version 1.1 - 2 September 2019
 
 - Added list of events (holidays, etc. corresponding to each date) under the dates, read from a new argument to \insertgrid just before the list of classes.
