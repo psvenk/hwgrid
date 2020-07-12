@@ -1,0 +1,9 @@
+hwgrid.cls changelog
+
+Version 1.1 - 2 September 2019
+
+- Added list of events (holidays, etc. corresponding to each date) under the dates, read from a new argument to \insertgrid just before the list of classes.
+
+- Classes (leftmost column) are ragged-right
+
+- \insertgridfixed now takes the height of each class row as an argument (the last argument) instead of using 80pt.
